@@ -25,12 +25,14 @@
 15. 위상 정렬
 
 
-## 발표 자료
+
+## 진행사항 & 발표자료
 0. [OT](https://docs.google.com/presentation/d/1Qodqk9NwHwrSYYEUn2w1IB5L18KZgAQS/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 1. [시간복잡도](https://docs.google.com/presentation/d/1_9UPTXHdE1j8qoh8ftdLSSHJ--jGC0lN/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 2. [정렬 알고리즘](https://docs.google.com/presentation/d/1mtBrNgDIL6ouxzO6DoTKU34pYs0dzc8k/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 3. [에라토스테네스, 유클리드](https://docs.google.com/presentation/d/1d5YkTEd0-QYPwrgc3BtaM9ZPqV4AA3n8/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 4. [이분탐색(binary search)](https://docs.google.com/presentation/d/1NUKUHJ63jC4i-mJqjVPOx5pZkC1wVri_/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
+5. 방학을 어떻게 보내면 좋을까?(6월 30일)     
 
 
 ## 발표 영상
